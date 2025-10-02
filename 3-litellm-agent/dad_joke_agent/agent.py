@@ -6,7 +6,7 @@ from google.adk.models.lite_llm import LiteLlm
 
 model = LiteLlm(
     model="openrouter/openai/gpt-4.1",
-    api_key="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",
+    api_key="api-key",
 )
 
 def get_dad_joke():
